@@ -1,0 +1,123 @@
+{
+    "database": "sm_mall",
+    "tables": {
+        "stores": [
+            {
+                "store_id": 1,
+                "store_name": "Bench",
+                "category": "Clothing"
+            },
+            {
+                "store_id": 2,
+                "store_name": "Electronico",
+                "category": "Electronics"
+            },
+            {
+                "store_id": 3,
+                "store_name": "Mang Inasal",
+                "category": "Restaurant"
+            },
+            {
+                "store_id": 4,
+                "store_name": "Jabi",
+                "category": "Fast Food"
+            },
+            {
+                "store_id": 5,
+                "store_name": "Starbucks",
+                "category": "Cafe"
+            },
+            {
+                "store_id": 6,
+                "store_name": "Dunkin Donut",
+                "category": "Cafe"
+            },
+            {
+                "store_id": 7,
+                "store_name": "Potatoe Corner",
+                "category": "Fast Food"
+            },
+            {
+                "store_id": 8,
+                "store_name": "Ribshack",
+                "category": "Restaurant"
+            },
+            {
+                "store_id": 9,
+                "store_name": "Penshoppe",
+                "category": "Clothing"
+            },
+            {
+                "store_id": 10,
+                "store_name": "Regatta",
+                "category": "Clothing"
+            },
+            {
+                "store_id": 11,
+                "store_name": "Toyota",
+                "category": "Car Dealer"
+            },
+            {
+                "store_id": 12,
+                "store_name": "Miniso",
+                "category": "General Merchandise"
+            },
+            {
+                "store_id": 13,
+                "store_name": "Watsons",
+                "category": "Health and Wellness"
+            },
+            {
+                "store_id": 14,
+                "store_name": "EO",
+                "category": "Health Care"
+            },
+            {
+                "store_id": 15,
+                "store_name": "National Bookstore",
+                "category": "Book Store"
+            },
+            {
+                "store_id": 16,
+                "store_name": "Toms World",
+                "category": "Entertainment"
+            },
+            {
+                "store_id": 17,
+                "store_name": "Dagoy Spa",
+                "category": "Health and Wellness"
+            },
+            {
+                "store_id": 18,
+                "store_name": "Dagoy Toys",
+                "category": "Store"
+            },
+            {
+                "store_id": 19,
+                "store_name": "Yamaha",
+                "category": "Motorcycle Dealer"
+            },
+            {
+                "store_id": 20,
+                "store_name": "Don Mac",
+                "category": "Cafe"
+            }
+        ],
+        "customers": [
+            {
+                "customer_id": 1,
+                "first_name": "Juan",
+                "last_name": "Dela Cruz",
+                "store_id": 1
+            }
+        ],
+        "products": [
+            {
+                "product_id": 1,
+                "product_name": "Notebook",
+                "price": 49.99,
+                "store_id": "15"
+            }
+        ]
+    }
+}
